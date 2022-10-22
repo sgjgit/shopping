@@ -1,0 +1,132 @@
+[
+  {
+    "categoryName": "MOBILE",
+    "productList": [
+      {
+        "productName": "Redmi 1",
+        "modelNumber": "Qwerty1",
+        "price": "1000",
+        "manufactureDate": "2022-01-01",
+        "manufactureAddress": "Mumbai"
+      },
+      {
+        "productName": "Redmi 2",
+        "modelNumber": "Qwerty2",
+        "price": "2000",
+        "manufactureDate": "2022-02-01",
+        "manufactureAddress": "Bangalore"
+      },
+      {
+        "productName": "Redmi 3",
+        "modelNumber": "Qwerty3",
+        "price": "3000",
+        "manufactureDate": "2022-03-01",
+        "manufactureAddress": "Chennai"
+      }
+    ]
+  },
+  {
+    "categoryName": "AC",
+    "productList": [
+      {
+        "productName": "Onida 1",
+        "modelNumber": "Qwerty1",
+        "price": "1000",
+        "manufactureDate": "2022-01-01",
+        "manufactureAddress": "Mumbai"
+      },
+      {
+        "productName": "Onida 2",
+        "modelNumber": "Qwerty2",
+        "price": "2000",
+        "manufactureDate": "2022-02-01",
+        "manufactureAddress": "Bangalore"
+      },
+      {
+        "productName": "Onida 3",
+        "modelNumber": "Qwerty3",
+        "price": "3000",
+        "manufactureDate": "2022-03-01",
+        "manufactureAddress": "Chennai"
+      }
+    ]
+  },
+  {
+    "categoryName": "LAPTOP",
+    "productList": [
+      {
+        "productName": "Azus 1",
+        "modelNumber": "Qwerty1",
+        "price": "1000",
+        "manufactureDate": "2022-01-01",
+        "manufactureAddress": "Mumbai"
+      },
+      {
+        "productName": "Azus 2",
+        "modelNumber": "Qwerty2",
+        "price": "2000",
+        "manufactureDate": "2022-02-01",
+        "manufactureAddress": "Bangalore"
+      },
+      {
+        "productName": "Azus 3",
+        "modelNumber": "Qwerty3",
+        "price": "3000",
+        "manufactureDate": "2022-03-01",
+        "manufactureAddress": "Chennai"
+      }
+    ]
+  },
+  {
+    "categoryName": "FAN",
+    "productList": [
+      {
+        "productName": "Crompton 1",
+        "modelNumber": "Qwerty1",
+        "price": "1000",
+        "manufactureDate": "2022-01-01",
+        "manufactureAddress": "Mumbai"
+      },
+      {
+        "productName": "Crompton 2",
+        "modelNumber": "Qwerty2",
+        "price": "2000",
+        "manufactureDate": "2022-02-01",
+        "manufactureAddress": "Bangalore"
+      },
+      {
+        "productName": "Crompton 3",
+        "modelNumber": "Qwerty3",
+        "price": "3000",
+        "manufactureDate": "2022-03-01",
+        "manufactureAddress": "Chennai"
+      }
+    ]
+  },
+  {
+    "categoryName": "CAR",
+    "productList": [
+      {
+        "productName": "BMW 1",
+        "modelNumber": "Qwerty1",
+        "price": "1000",
+        "manufactureDate": "2022-01-01",
+        "manufactureAddress": "Mumbai"
+      },
+      {
+        "productName": "BMW 2",
+        "modelNumber": "Qwerty2",
+        "price": "2000",
+        "manufactureDate": "2022-02-01",
+        "manufactureAddress": "Bangalore"
+      },
+      {
+        "productName": "BMW 3",
+        "modelNumber": "Qwerty3",
+        "price": "3000",
+        "manufactureDate": "2022-03-01",
+        "manufactureAddress": "Chennai"
+      }
+    ]
+  }
+]
